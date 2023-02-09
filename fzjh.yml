@@ -187,7 +187,7 @@ emojis=(?i:\bC[H]?N\b|China|back|回国|中国[^-]|江苏[^-]|北京[^-]|上海[
 
 custom_proxy_group=🍖 默认代理`select`[]🔄 延迟最低`[]⚖️ 负载均衡-轮询`[]⚖️ 负载均衡-散列`[]🇹🇼 台湾-延迟最低`[]🇹🇼 台湾`[]🇲🇴 澳门-延迟最低`[]🇲🇴 澳门`[]🇭🇰 香港-延迟最低`[]🇭🇰 香港`[]🇺🇸 美国-延迟最低`[]🇺🇸 美国`[]🇯🇵 日本-延迟最低`[]🇯🇵 日本`[]🇸🇬 新加坡-延迟最低`[]🇸🇬 新加坡`[]🇰🇷 韩国-延迟最低`[]🇰🇷 韩国`[]🇷🇺 俄罗斯-延迟最低`[]🇷🇺 俄罗斯`[]🍱 冷门地区`[]🇬🇧 英国-延迟最低`[]🇬🇧 英国
 [[custom_groups]]
-name = "🔮 负载均衡-轮询"
+name = "⚖️ 负载均衡-轮询"
 type = "load-balance"
 strategy = "round-robin"
 rule = [".*"]
@@ -195,7 +195,7 @@ url = "http://www.gstatic.com/generate_204"
 interval = 150
 
 [[custom_groups]]
-name = "🔮 负载均衡-哈希"
+name = "⚖️ 负载均衡-散列"
 type = "load-balance"
 strategy = "consistent-hashing"
 rule = [".*"]
