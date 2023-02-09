@@ -1,12 +1,12 @@
 [custom]
-clash_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
-surfboard_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
-surge_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
-mellow_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
-quan_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
-quanx_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
-loon_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
-sssub_rule_base=https://raw.githubusercontent.com/LM-Firefly/Rules/master/Subconverter-base/all-base.tpl
+clash_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
+surfboard_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
+surge_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
+mellow_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
+quan_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
+quanx_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
+loon_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
+sssub_rule_base=https://raw.githubusercontent.com/Banghard/clash-/main/all-base.tpl
 
 exclude_remarks=(剩余流量|到期时间|过期时间|官网地址|产品名称|先购买套餐|流量消耗|唯一官网|更新订阅|套餐到期|防失联地址|官方地址)
 exclude_remarks=(.*流量.*剩.*天)
