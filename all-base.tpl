@@ -380,6 +380,7 @@ static=🍎 苹果服务, direct, img-url=https://raw.githubusercontent.com/Kool
 static=🎯 全球直连, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png
 static=🛑 全球拦截, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
 static=🐟 漏网之鱼, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
+round-robin=⚖️ 负载均衡-轮询, proxy, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
 
 [server_remote]
 
