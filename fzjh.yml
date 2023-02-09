@@ -1,5 +1,5 @@
-custom:
-  clash_rule_base: https://raw.githubusercontent.com/Banghard/clash-/main/base.yml
+[custom]
+clash_rule_base: https://raw.githubusercontent.com/Banghard/clash-/main/base.yml
 
 ;不要随意改变关键字，否则会导致出错
 ;acl4SSR规则
